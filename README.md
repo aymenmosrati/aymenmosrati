@@ -3,7 +3,7 @@
 **Full Stack Software Engineer** building AI-powered platforms end to end: React and Next.js on the front, Node.js, Python and Go behind them.
 
 - 🏛️ **Team Lead** at **Loop Space**, leading the unified meetings platform for the Saudi Ministry of Municipalities and Housing (MOMAH)
-- 🏆 Built **SANAD AI**, an AI legal platform that won the **Silver Stevie® Award (MENA 2026)** for AI innovation in government services
+- 🏆 Part of the engineering team behind **SANAD AI**, an AI legal platform that won the **Silver Stevie® Award (MENA 2026)** for AI innovation in government services
 - 🎓 Built features for **Massar**, an AI-powered operating system for education
 - 🚀 Previously at **Softylines**, shipping products used by **500,000+ users**, including TakiAcademy, Messaggera and Popups
 
