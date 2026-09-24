@@ -2,6 +2,8 @@
 
 **Full Stack Software Engineer** building AI-powered platforms end to end: React and Next.js on the front, Node.js and Python behind them.
 
+🌐 **Portfolio:** [aymenmosrati.github.io](https://aymenmosrati.github.io)
+
 - 🏛️ **Team Lead** at **Loop Space**, leading the unified meetings platform for the Saudi Ministry of Municipalities and Housing (MOMAH)
 - 🏆 Part of the engineering team behind **SANAD AI**, an AI legal platform that won the **Silver Stevie® Award (MENA 2026)** for AI innovation in government services
 - 🎓 Building features for **Massar**, an AI-powered operating system for education
@@ -27,5 +29,6 @@
 
 ### 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-5646D8?style=flat&logo=googlechrome&logoColor=white)](https://aymenmosrati.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymenmosrati/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aymenmosrati6@gmail.com)
