@@ -19,13 +19,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 💡 What I work on
 
 - **AI products:** LLM integration, AI legal analysis and response generation, and AI that automates school admin and personalizes learning
 - **Real-time systems:** chat, live presence, read receipts and reliable reconnection with Socket.io
-- **Scalable platforms:** modular frontends and shared component libraries
+- **Scalable platforms:** Nx monorepos, modular frontends and shared component libraries
 
 ### 📫 Contact
 
