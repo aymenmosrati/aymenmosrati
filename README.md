@@ -23,7 +23,7 @@
 
 - **AI products:** LLM integration, AI legal analysis and response generation, and AI that automates school admin and personalizes learning
 - **Real-time systems:** chat, live presence, read receipts and reliable reconnection with Socket.io
-- **Scalable platforms:** role-based access, modular frontends, shared component libraries
+- **Scalable platforms:** modular frontends and shared component libraries
 
 ### 📫 Contact
 
