@@ -5,7 +5,7 @@
 - 🏛️ **Team Lead** at **Loop Space**, leading the unified meetings platform for the Saudi Ministry of Municipalities and Housing (MOMAH)
 - 🏆 Part of the engineering team behind **SANAD AI**, an AI legal platform that won the **Silver Stevie® Award (MENA 2026)** for AI innovation in government services
 - 🎓 Built features for **Massar**, an AI-powered operating system for education
-- 🚀 Previously at **Softylines**, shipping products used by **500,000+ users**, including TakiAcademy, Messaggera and Popups
+- 🚀 Previously at **Softylines**, delivering real-time, data-driven products for students, teachers and businesses, including TakiAcademy, Messaggera and Popups
 
 ### 🛠️ Tech stack
 
