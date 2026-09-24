@@ -1,6 +1,6 @@
 # Hi, I'm Aymen 👋
 
-**Full Stack Software Engineer** building AI-powered platforms end to end: React and Next.js on the front, Node.js, Python and Go behind them.
+**Full Stack Software Engineer** building AI-powered platforms end to end: React and Next.js on the front, Node.js and Python behind them.
 
 - 🏛️ **Team Lead** at **Loop Space**, leading the unified meetings platform for the Saudi Ministry of Municipalities and Housing (MOMAH)
 - 🏆 Part of the engineering team behind **SANAD AI**, an AI legal platform that won the **Silver Stevie® Award (MENA 2026)** for AI innovation in government services
@@ -15,7 +15,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
